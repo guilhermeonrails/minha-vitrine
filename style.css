@@ -1,0 +1,56 @@
+* {
+    font-family: 'Nunito Sans';
+}
+
+header {
+    background-color: #84FFD3;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    color: #5C5C5C;
+    padding: 1em 0;
+}
+
+main {
+    text-align: center;
+    background-color: #BEB3F1;
+    height: 100vh;
+}
+
+section figure img {
+    border-radius: 50%;
+    width: 144px;
+    height: 144px;
+}
+
+figure {
+    padding: 64px;
+}
+
+figcaption {
+    font-weight: 600;
+    font-size: 20px;
+    color: #5C5C5C;
+}
+
+ul {
+    margin: 0 auto;
+    width: 30%;
+}
+
+li {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 0px 32px 0px 0px;
+    padding: 19px 0;
+    margin: 16px 0; 
+}
+
+li a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #5C5C5C;
+}
+
+
